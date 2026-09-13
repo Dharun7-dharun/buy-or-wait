@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 today; the 90-day forecast remains above the required minimum balance.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 today; the 90-day forecast remains above the required minimum balance.
+request_28,306.67,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 306.67 is safely available today; the full EUR 1302.4 request cannot be completed within the forecast.
+request_29,1183.82,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 1183.82 is safely available today; the full ZAR 51524 request cannot be completed within the forecast.
+request_30,281.21,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 281.21 is safely available today; the full USD 775.2 request cannot be completed within the forecast.
+request_31,2384437.23,affordable_later,wait,2024-11-14:18164000,2024-11-14,none,Wait and pay IDR 18164000 on 2024-11-14; paying sooner would breach the forecast safety buffer.
+request_32,19991.44,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 19991.44 is safely available today; the full ZAR 40018 request cannot be completed within the forecast.
+request_33,29822.27,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only INR 29822.27 is safely available today; the full INR 118000 request cannot be completed within the forecast.
+request_34,115505.81,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 115505.81 is safely available today; the full INR 129400 request cannot be completed within the forecast.
+request_35,37736.38,not_affordable,not_recommended,none,2026-01-16,none,Do not proceed. Only INR 37736.38 is safely available today; the full INR 212000 request cannot be completed within the forecast.
+request_36,436.48,not_affordable,not_recommended,none,2026-09-16,none,Do not proceed. Only USD 436.48 is safely available today; the full USD 3954 request cannot be completed within the forecast.
+request_37,11559728.1,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 11559728.1 is safely available today; the full IDR 14649000 request cannot be completed within the forecast.
+request_38,170.91,not_affordable,not_recommended,none,2025-10-16,none,Do not proceed. Only EUR 170.91 is safely available today; the full EUR 971.3 request cannot be completed within the forecast.
+request_39,127590.64,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 127590.64 is safely available today; the full INR 208600 request cannot be completed within the forecast.
+request_40,884.82,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 884.82 is safely available today; the full EUR 1290.3 request cannot be completed within the forecast.
+request_41,24205982.07,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 24205982.07 is safely available today; the full IDR 38760000 request cannot be completed within the forecast.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,,none,Pay INR 52100 today; the 90-day forecast remains above the required minimum balance.
+request_43,9830228.11,affordable_later,wait,2024-11-13:43339000,2024-11-13,none,Wait and pay IDR 43339000 on 2024-11-13; paying sooner would breach the forecast safety buffer.
+request_44,59707.32,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 59707.32 is safely available today; the full INR 95800 request cannot be completed within the forecast.
+request_45,3465168.11,not_affordable,not_recommended,none,2026-09-16,none,Do not proceed. Only IDR 3465168.11 is safely available today; the full IDR 21983000 request cannot be completed within the forecast.
+request_46,35243.23,affordable_with_plan,partial_payment,2024-12-03:35243.23|2024-12-15:14206.77,2024-12-15,none,Pay INR 35243.23 today and the remaining INR 14206.77 on 2024-12-15; the full request completes safely by the deadline.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,Pay IDR 38114000 today; the 90-day forecast remains above the required minimum balance.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,,none,Pay INR 45700 today; the 90-day forecast remains above the required minimum balance.
+request_49,11218422.57,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-04-17,none,Use the selected installment schedule for the full IDR 34333000 request; the forecast remains above the minimum balance.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,,none,Pay INR 43900 today; the 90-day forecast remains above the required minimum balance.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 today; the 90-day forecast remains above the required minimum balance.
+request_52,19070.62,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Wait and pay INR 28870 on 2024-06-15; paying sooner would breach the forecast safety buffer.
+request_53,562.93,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-13,none,Use the selected installment schedule for the full USD 1699.2 request; the forecast remains above the minimum balance.
+request_54,2181.49,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 2181.49 is safely available today; the full ZAR 121528 request cannot be completed within the forecast.
+request_55,129274.81,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-07-16,none,Use the selected installment schedule for the full INR 218600 request; the forecast remains above the minimum balance.
+request_56,881.56,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 881.56 is safely available today; the full USD 881.56 request cannot be completed within the forecast.
+request_57,12885.38,not_affordable,not_recommended,none,2026-06-16,none,Do not proceed. Only ZAR 12885.38 is safely available today; the full ZAR 61446 request cannot be completed within the forecast.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,,none,Pay IDR 16226000 today; the 90-day forecast remains above the required minimum balance.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,Use the selected installment schedule for the full INR 140600 request; the forecast remains above the minimum balance.
+request_60,135.09,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only USD 135.09 is safely available today; the full USD 199.89 request cannot be completed within the forecast.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use the selected installment schedule for the full ZAR 29062 request; the forecast remains above the minimum balance.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 today; the 90-day forecast remains above the required minimum balance.
+request_63,61537.54,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 61537.54 is safely available today; the full INR 343900 request cannot be completed within the forecast.
+request_64,36873.07,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 36873.07 is safely available today; the full INR 63700 request cannot be completed within the forecast.
+request_65,12634.05,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 12634.05 is safely available today; the full ZAR 54340 request cannot be completed within the forecast.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 today; the 90-day forecast remains above the required minimum balance.
+request_67,291.79,affordable_later,wait,2024-10-15:2094,2024-10-15,none,Wait and pay USD 2094 on 2024-10-15; paying sooner would breach the forecast safety buffer.
+request_68,1331.46,not_affordable,not_recommended,none,2025-03-24,none,Do not proceed. Only USD 1331.46 is safely available today; the full USD 2091.6 request cannot be completed within the forecast.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,Pay EUR 529.1 today; the 90-day forecast remains above the required minimum balance.
+request_70,50291.58,not_affordable,not_recommended,none,2025-02-16,none,Do not proceed. Only INR 50291.58 is safely available today; the full INR 243900 request cannot be completed within the forecast.
+request_71,7287866.87,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 7287866.87 is safely available today; the full IDR 21451000 request cannot be completed within the forecast.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,,none,Pay ZAR 11330 today; the 90-day forecast remains above the required minimum balance.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay INR 71400 today; the 90-day forecast remains above the required minimum balance.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 today; the 90-day forecast remains above the required minimum balance.
+request_75,28270,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,Use the selected installment schedule for the full ZAR 28270 request; the forecast remains above the minimum balance.
+request_76,1055.26,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 1055.26 is safely available today; the full USD 4455.6 request cannot be completed within the forecast.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Pay INR 60700 today; the 90-day forecast remains above the required minimum balance.
+request_78,46807.53,not_affordable,not_recommended,none,2025-10-16,none,Do not proceed. Only INR 46807.53 is safely available today; the full INR 50200 request cannot be completed within the forecast.
+request_79,698.73,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 698.73 is safely available today; the full EUR 2151.6 request cannot be completed within the forecast.
+request_80,153693.85,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 153693.85 is safely available today; the full INR 217500 request cannot be completed within the forecast.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay USD 2076 today; the 90-day forecast remains above the required minimum balance.
+request_82,268.91,not_affordable,not_recommended,none,2025-02-21,none,Do not proceed. Only USD 268.91 is safely available today; the full USD 1405.2 request cannot be completed within the forecast.
+request_83,30582.64,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 30582.64 is safely available today; the full INR 156200 request cannot be completed within the forecast.
+request_84,36456.5,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 36456.5 is safely available today; the full INR 95400 request cannot be completed within the forecast.
+request_85,419490.35,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 419490.35 is safely available today; the full IDR 19304000 request cannot be completed within the forecast.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay INR 46300 today; the 90-day forecast remains above the required minimum balance.
+request_87,89985.14,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 89985.14 is safely available today; the full INR 487900 request cannot be completed within the forecast.
+request_88,10701.68,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-16,none,Use the selected installment schedule for the full ZAR 26092 request; the forecast remains above the minimum balance.
+request_89,9302193.2,not_affordable,not_recommended,none,2026-01-14,none,Do not proceed. Only IDR 9302193.2 is safely available today; the full IDR 13756000 request cannot be completed within the forecast.
+request_90,487.73,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 487.73 is safely available today; the full ZAR 2560 request cannot be completed within the forecast.
+request_91,316.19,affordable_later,wait,2024-11-13:1927.2,2024-11-13,none,Wait and pay EUR 1927.2 on 2024-11-13; paying sooner would breach the forecast safety buffer.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,,none,Pay ZAR 34034 today; the 90-day forecast remains above the required minimum balance.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,Pay USD 1729.2 today; the 90-day forecast remains above the required minimum balance.
+request_94,461.03,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 461.03 is safely available today; the full EUR 572 request cannot be completed within the forecast.
+request_95,134601,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 134601 is safely available today; the full INR 553000 request cannot be completed within the forecast.
+request_96,90200,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 90200 is safely available today; the full INR 90200 request cannot be completed within the forecast.
+request_97,1581.11,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,Use the selected installment schedule for the full ZAR 23496 request; the forecast remains above the minimum balance.
+request_98,16111.02,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 16111.02 is safely available today; the full ZAR 27148 request cannot be completed within the forecast.
+request_99,17529.87,not_affordable,not_recommended,none,2026-07-15,none,Do not proceed. Only ZAR 17529.87 is safely available today; the full ZAR 18062 request cannot be completed within the forecast.
+request_100,34015.62,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 34015.62 is safely available today; the full ZAR 37114 request cannot be completed within the forecast.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 today; the 90-day forecast remains above the required minimum balance.
+request_102,1716,not_affordable,not_recommended,none,2026-04-05,none,Do not proceed. Only EUR 1716 is safely available today; the full EUR 1716 request cannot be completed within the forecast.
+request_103,9834.81,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 9834.81 is safely available today; the full INR 368300 request cannot be completed within the forecast.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,,none,Pay ZAR 17204 today; the 90-day forecast remains above the required minimum balance.
+request_105,49363.91,not_affordable,not_recommended,none,2026-06-15,none,Do not proceed. Only INR 49363.91 is safely available today; the full INR 53500 request cannot be completed within the forecast.
+request_106,460.01,not_affordable,not_recommended,none,2025-02-16,none,Do not proceed. Only EUR 460.01 is safely available today; the full EUR 2207.7 request cannot be completed within the forecast.
+request_107,2534.4,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 2534.4 is safely available today; the full EUR 2534.4 request cannot be completed within the forecast.
+request_108,6833.71,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 6833.71 is safely available today; the full ZAR 55308 request cannot be completed within the forecast.
+request_109,572.53,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-05-16,none,Use the selected installment schedule for the full EUR 1863.4 request; the forecast remains above the minimum balance.
+request_110,18538.79,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 18538.79 is safely available today; the full ZAR 22352 request cannot be completed within the forecast.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 today; the 90-day forecast remains above the required minimum balance.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,,none,Pay EUR 271.7 today; the 90-day forecast remains above the required minimum balance.
+request_113,36500,affordable_now,full_payment,2026-09-04:36500,,none,Pay INR 36500 today; the 90-day forecast remains above the required minimum balance.
+request_114,54910.24,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only INR 54910.24 is safely available today; the full INR 65300 request cannot be completed within the forecast.
+request_115,14785.64,affordable_later,wait,2024-11-13:80500,2024-11-13,none,Wait and pay INR 80500 on 2024-11-13; paying sooner would breach the forecast safety buffer.
+request_116,7498.55,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 7498.55 is safely available today; the full INR 241200 request cannot be completed within the forecast.
+request_117,862.96,not_affordable,not_recommended,none,2026-07-16,none,Do not proceed. Only EUR 862.96 is safely available today; the full EUR 880 request cannot be completed within the forecast.
+request_118,529.77,not_affordable,not_recommended,none,2025-02-21,none,Do not proceed. Only EUR 529.77 is safely available today; the full EUR 738.1 request cannot be completed within the forecast.
+request_119,116351.01,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 116351.01 is safely available today; the full INR 203500 request cannot be completed within the forecast.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 today; the 90-day forecast remains above the required minimum balance.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,Pay USD 633.6 today; the 90-day forecast remains above the required minimum balance.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use the selected installment schedule for the full IDR 20558000 request; the forecast remains above the minimum balance.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,,none,Pay IDR 4076000 today; the 90-day forecast remains above the required minimum balance.
+request_124,1389.85,not_affordable,not_recommended,none,2024-07-16,none,Do not proceed. Only EUR 1389.85 is safely available today; the full EUR 3104.2 request cannot be completed within the forecast.
+request_125,6468,affordable_now,full_payment,2025-11-06:6468,,none,Pay ZAR 6468 today; the 90-day forecast remains above the required minimum balance.
+request_126,15363.01,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 15363.01 is safely available today; the full INR 159600 request cannot be completed within the forecast.
+request_127,23515.65,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 23515.65 is safely available today; the full ZAR 23980 request cannot be completed within the forecast.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,,none,Pay ZAR 25168 today; the 90-day forecast remains above the required minimum balance.
+request_129,113.62,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 113.62 is safely available today; the full USD 2668.8 request cannot be completed within the forecast.
+request_130,372,affordable_later,wait,2025-01-16:1978.8,2025-01-16,none,Wait and pay USD 1978.8 on 2025-01-16; paying sooner would breach the forecast safety buffer.
+request_131,1855.2,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 1855.2 is safely available today; the full USD 1855.2 request cannot be completed within the forecast.
+request_132,202.59,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only USD 202.59 is safely available today; the full USD 379.86 request cannot be completed within the forecast.
+request_133,15770000,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 15770000 is safely available today; the full IDR 15770000 request cannot be completed within the forecast.
+request_134,4452918.81,not_affordable,not_recommended,none,2025-10-16,none,Do not proceed. Only IDR 4452918.81 is safely available today; the full IDR 21831000 request cannot be completed within the forecast.
+request_135,277.9,not_affordable,not_recommended,none,2026-07-16,none,Do not proceed. Only USD 277.9 is safely available today; the full USD 304.8 request cannot be completed within the forecast.
+request_136,534.59,not_affordable,not_recommended,none,2024-06-15,none,Do not proceed. Only USD 534.59 is safely available today; the full USD 560.4 request cannot be completed within the forecast.
+request_137,25413.43,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 25413.43 is safely available today; the full INR 80100 request cannot be completed within the forecast.
+request_138,752.94,affordable_with_plan,partial_payment,2026-04-07:752.94|2026-04-15:504,2026-04-15,none,Pay EUR 752.94 today and the remaining EUR 504 on 2026-04-15; the full request completes safely by the deadline.
+request_139,1713.63,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-10-15,none,Use the selected installment schedule for the full USD 2316 request; the forecast remains above the minimum balance.
+request_140,12683.57,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 12683.57 is safely available today; the full ZAR 62832 request cannot be completed within the forecast.
+request_141,20587.37,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 20587.37 is safely available today; the full INR 171600 request cannot be completed within the forecast.
+request_142,1248.9,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 1248.9 is safely available today; the full USD 1263.6 request cannot be completed within the forecast.
+request_143,2103.93,not_affordable,not_recommended,none,2025-07-17,none,Do not proceed. Only ZAR 2103.93 is safely available today; the full ZAR 12584 request cannot be completed within the forecast.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,,none,Pay USD 233.34 today; the 90-day forecast remains above the required minimum balance.
+request_145,10820.13,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 10820.13 is safely available today; the full INR 217400 request cannot be completed within the forecast.
+request_146,16403.2,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 16403.2 is safely available today; the full INR 449400 request cannot be completed within the forecast.
+request_147,506.25,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 506.25 is safely available today; the full EUR 1129.7 request cannot be completed within the forecast.
+request_148,7209.77,not_affordable,not_recommended,none,2024-07-16,none,Do not proceed. Only ZAR 7209.77 is safely available today; the full ZAR 22242 request cannot be completed within the forecast.
+request_149,26412.4,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-15,none,Use the selected installment schedule for the full ZAR 36652 request; the forecast remains above the minimum balance.
+request_150,238.46,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only EUR 238.46 is safely available today; the full EUR 496.1 request cannot be completed within the forecast.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay IDR 26999000 today; the 90-day forecast remains above the required minimum balance.
+request_152,11885.32,not_affordable,not_recommended,none,2025-04-15,none,Do not proceed. Only ZAR 11885.32 is safely available today; the full ZAR 13882 request cannot be completed within the forecast.
+request_153,415.71,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 415.71 is safely available today; the full USD 2830.8 request cannot be completed within the forecast.
+request_154,1625.8,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 1625.8 is safely available today; the full EUR 1625.8 request cannot be completed within the forecast.
+request_155,15479.55,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 15479.55 is safely available today; the full INR 112500 request cannot be completed within the forecast.
+request_156,8587.08,not_affordable,not_recommended,none,2026-06-16,none,Do not proceed. Only ZAR 8587.08 is safely available today; the full ZAR 43076 request cannot be completed within the forecast.
+request_157,4744198.84,affordable_later,wait,2024-04-17:23503000,2024-04-17,none,Wait and pay IDR 23503000 on 2024-04-17; paying sooner would breach the forecast safety buffer.
+request_158,208223.58,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 208223.58 is safely available today; the full INR 242600 request cannot be completed within the forecast.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,Pay ZAR 13398 today; the 90-day forecast remains above the required minimum balance.
+request_160,572.22,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-16,none,Use the selected installment schedule for the full EUR 1246.3 request; the forecast remains above the minimum balance.
+request_161,10726711.89,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 10726711.89 is safely available today; the full IDR 21204000 request cannot be completed within the forecast.
+request_162,1392894.33,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 1392894.33 is safely available today; the full IDR 83923000 request cannot be completed within the forecast.
+request_163,7850457.94,not_affordable,not_recommended,none,2024-11-18,none,Do not proceed. Only IDR 7850457.94 is safely available today; the full IDR 19304000 request cannot be completed within the forecast.
+request_164,27018000,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 27018000 is safely available today; the full IDR 27018000 request cannot be completed within the forecast.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay INR 80600 today; the 90-day forecast remains above the required minimum balance.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use the selected installment schedule for the full USD 2907.6 request; the forecast remains above the minimum balance.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,,none,Pay ZAR 43802 today; the 90-day forecast remains above the required minimum balance.
+request_168,30479.54,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only INR 30479.54 is safely available today; the full INR 49380 request cannot be completed within the forecast.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,,none,Pay ZAR 41976 today; the 90-day forecast remains above the required minimum balance.
+request_170,29947522.03,not_affordable,not_recommended,none,2025-09-15,none,Do not proceed. Only IDR 29947522.03 is safely available today; the full IDR 36936000 request cannot be completed within the forecast.
+request_171,32.94,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 32.94 is safely available today; the full EUR 1878.8 request cannot be completed within the forecast.
+request_172,9037.52,affordable_with_plan,partial_payment,2024-06-05:9037.52|2024-06-15:1162.48,2024-06-15,none,Pay ZAR 9037.52 today and the remaining ZAR 1162.48 on 2024-06-15; the full request completes safely by the deadline.
+request_173,83000.2,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 83000.2 is safely available today; the full INR 113000 request cannot be completed within the forecast.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Use the selected installment schedule for the full EUR 1146.2 request; the forecast remains above the minimum balance.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,Pay EUR 2346.3 today; the 90-day forecast remains above the required minimum balance.
+request_176,632.32,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 632.32 is safely available today; the full EUR 1239.7 request cannot be completed within the forecast.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,Pay USD 1017.6 today; the 90-day forecast remains above the required minimum balance.
+request_178,2698.07,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 2698.07 is safely available today; the full EUR 2938.1 request cannot be completed within the forecast.
+request_179,6681805.7,not_affordable,not_recommended,none,2025-07-17,none,Do not proceed. Only IDR 6681805.7 is safely available today; the full IDR 41648000 request cannot be completed within the forecast.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,,none,Pay INR 66500 today; the 90-day forecast remains above the required minimum balance.
+request_181,287.76,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 287.76 is safely available today; the full USD 5059.2 request cannot be completed within the forecast.
+request_182,6146.71,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 6146.71 is safely available today; the full ZAR 65714 request cannot be completed within the forecast.
+request_183,26866000,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 26866000 is safely available today; the full IDR 26866000 request cannot be completed within the forecast.
+request_184,49078.9,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 49078.9 is safely available today; the full INR 251900 request cannot be completed within the forecast.
+request_185,419.04,affordable_later,wait,2026-01-13:1257.3,2026-01-13,none,Wait and pay EUR 1257.3 on 2026-01-13; paying sooner would breach the forecast safety buffer.
+request_186,3764.16,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 3764.16 is safely available today; the full ZAR 26554 request cannot be completed within the forecast.
+request_187,37686.25,affordable_later,wait,2024-11-13:187500,2024-11-13,none,Wait and pay INR 187500 on 2024-11-13; paying sooner would breach the forecast safety buffer.
+request_188,175.28,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 175.28 is safely available today; the full EUR 2464 request cannot be completed within the forecast.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.4 today; the 90-day forecast remains above the required minimum balance.
+request_190,543.49,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 543.49 is safely available today; the full EUR 2557.5 request cannot be completed within the forecast.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.4 today; the 90-day forecast remains above the required minimum balance.
+request_192,363.14,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 363.14 is safely available today; the full USD 2046 request cannot be completed within the forecast.
+request_193,39.02,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-04-17,none,Use the selected installment schedule for the full EUR 1212.2 request; the forecast remains above the minimum balance.
+request_194,33763.42,not_affordable,not_recommended,none,2025-10-24,none,Do not proceed. Only INR 33763.42 is safely available today; the full INR 132800 request cannot be completed within the forecast.
+request_195,969.1,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only EUR 969.1 is safely available today; the full EUR 1170.4 request cannot be completed within the forecast.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.3 today; the 90-day forecast remains above the required minimum balance.
+request_197,50939000,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 50939000 is safely available today; the full IDR 50939000 request cannot be completed within the forecast.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 today; the 90-day forecast remains above the required minimum balance.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use the selected installment schedule for the full IDR 23674000 request; the forecast remains above the minimum balance.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,,none,Pay IDR 21717000 today; the 90-day forecast remains above the required minimum balance.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 today; the 90-day forecast remains above the required minimum balance.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 today; the 90-day forecast remains above the required minimum balance.
+request_203,1032.17,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 1032.17 is safely available today; the full EUR 1442.1 request cannot be completed within the forecast.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,,none,Pay EUR 588.74 today; the 90-day forecast remains above the required minimum balance.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 today; the 90-day forecast remains above the required minimum balance.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Use the selected installment schedule for the full EUR 1404.7 request; the forecast remains above the minimum balance.
+request_207,4692.04,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Wait and pay ZAR 11830 on 2026-07-15; paying sooner would breach the forecast safety buffer.
+request_208,3110336.76,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Wait and pay IDR 4413000 on 2024-06-15; paying sooner would breach the forecast safety buffer.
+request_209,8304.53,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 8304.53 is safely available today; the full ZAR 56914 request cannot be completed within the forecast.
+request_210,987.07,affordable_with_plan,partial_payment,2026-04-06:987.07|2026-04-15:372.95,2026-04-15,none,Pay USD 987.07 today and the remaining USD 372.95 on 2026-04-15; the full request completes safely by the deadline.
+request_211,249.17,affordable_later,wait,2024-11-14:1788.6,2024-11-14,none,Wait and pay EUR 1788.6 on 2024-11-14; paying sooner would breach the forecast safety buffer.
+request_212,6223006.63,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 6223006.63 is safely available today; the full IDR 71934000 request cannot be completed within the forecast.
+request_213,2613.47,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 2613.47 is safely available today; the full USD 3362.4 request cannot be completed within the forecast.
+request_214,69750,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 69750 is safely available today; the full INR 69750 request cannot be completed within the forecast.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use the selected installment schedule for the full ZAR 29986 request; the forecast remains above the minimum balance.
+request_216,402.3,not_affordable,not_recommended,none,2026-09-16,none,Do not proceed. Only USD 402.3 is safely available today; the full USD 3332.4 request cannot be completed within the forecast.
+request_217,19551.52,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 19551.52 is safely available today; the full ZAR 37180 request cannot be completed within the forecast.
+request_218,24412824.78,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,Use the selected installment schedule for the full IDR 61142000 request; the forecast remains above the minimum balance.
+request_219,1499.68,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 1499.68 is safely available today; the full EUR 1673.1 request cannot be completed within the forecast.
+request_220,66.01,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 66.01 is safely available today; the full EUR 3118.5 request cannot be completed within the forecast.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 today; the 90-day forecast remains above the required minimum balance.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay ZAR 34078 today; the 90-day forecast remains above the required minimum balance.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.7 today; the 90-day forecast remains above the required minimum balance.
+request_224,10327000,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,2025-02-04,none,Use the selected installment schedule for the full IDR 10327000 request; the forecast remains above the minimum balance.
+request_225,9642009.28,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-16,none,Use the selected installment schedule for the full IDR 22059000 request; the forecast remains above the minimum balance.
+request_226,108577.47,not_affordable,not_recommended,none,2025-02-21,none,Do not proceed. Only INR 108577.47 is safely available today; the full INR 157000 request cannot be completed within the forecast.
+request_227,40691.76,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 40691.76 is safely available today; the full INR 259700 request cannot be completed within the forecast.
+request_228,9986596.28,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 9986596.28 is safely available today; the full IDR 63327000 request cannot be completed within the forecast.
+request_229,396.08,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-05-18,none,Use the selected installment schedule for the full EUR 1526.8 request; the forecast remains above the minimum balance.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,,none,Pay EUR 3537.6 today; the 90-day forecast remains above the required minimum balance.
+request_231,31549.28,not_affordable,not_recommended,none,2026-02-15,none,Do not proceed. Only ZAR 31549.28 is safely available today; the full ZAR 35706 request cannot be completed within the forecast.
+request_232,1862.25,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 1862.25 is safely available today; the full EUR 1970.1 request cannot be completed within the forecast.
+request_233,5233637.21,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 5233637.21 is safely available today; the full IDR 6241000 request cannot be completed within the forecast.
+request_234,184.01,not_affordable,not_recommended,none,2026-09-16,none,Do not proceed. Only EUR 184.01 is safely available today; the full EUR 1213.3 request cannot be completed within the forecast.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.2 today; the 90-day forecast remains above the required minimum balance.
+request_236,5830729.17,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 5830729.17 is safely available today; the full IDR 52383000 request cannot be completed within the forecast.
+request_237,22137013.8,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 22137013.8 is safely available today; the full IDR 23826000 request cannot be completed within the forecast.
+request_238,663.6,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 663.6 is safely available today; the full USD 663.6 request cannot be completed within the forecast.
+request_239,642,affordable_now,full_payment,2025-05-04:642,,none,Pay USD 642 today; the 90-day forecast remains above the required minimum balance.
+request_240,24260.66,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 24260.66 is safely available today; the full INR 101200 request cannot be completed within the forecast.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Use the selected installment schedule for the full IDR 21052000 request; the forecast remains above the minimum balance.
+request_242,420.86,not_affordable,not_recommended,none,,none,Do not proceed. Only EUR 420.86 is safely available today; the full EUR 1966.8 request cannot be completed within the forecast.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 today; the 90-day forecast remains above the required minimum balance.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,,none,Pay ZAR 49918 today; the 90-day forecast remains above the required minimum balance.
+request_245,65053.79,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 65053.79 is safely available today; the full INR 128500 request cannot be completed within the forecast.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Use the selected installment schedule for the full ZAR 64086 request; the forecast remains above the minimum balance.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,Pay EUR 1059.3 today; the 90-day forecast remains above the required minimum balance.
+request_248,1442.98,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 1442.98 is safely available today; the full USD 1965.6 request cannot be completed within the forecast.
+request_249,128.72,not_affordable,not_recommended,none,2026-03-18,none,Do not proceed. Only USD 128.72 is safely available today; the full USD 643.2 request cannot be completed within the forecast.
+request_250,15382.37,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 15382.37 is safely available today; the full ZAR 124278 request cannot be completed within the forecast.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,Do not proceed. Only EUR 1513.6 is safely available today; the full EUR 1513.6 request cannot be completed within the forecast.
+request_252,3867392.51,not_affordable,not_recommended,none,2026-09-16,none,Do not proceed. Only IDR 3867392.51 is safely available today; the full IDR 28082000 request cannot be completed within the forecast.
+request_253,1364.48,not_affordable,not_recommended,none,2024-05-18,none,Do not proceed. Only EUR 1364.48 is safely available today; the full EUR 2840.2 request cannot be completed within the forecast.
+request_254,1645.89,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 1645.89 is safely available today; the full USD 3535.2 request cannot be completed within the forecast.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay IDR 3345000 today; the 90-day forecast remains above the required minimum balance.
+request_256,218700,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 218700 is safely available today; the full INR 218700 request cannot be completed within the forecast.
+request_257,340.86,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 340.86 is safely available today; the full USD 1352.4 request cannot be completed within the forecast.
+request_258,114.09,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 114.09 is safely available today; the full USD 1113.6 request cannot be completed within the forecast.
+request_259,451.06,affordable_later,wait,2024-10-14:935,2024-10-14,none,Wait and pay EUR 935 on 2024-10-14; paying sooner would breach the forecast safety buffer.
+request_260,9591722.23,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 9591722.23 is safely available today; the full IDR 52079000 request cannot be completed within the forecast.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,Pay EUR 1830.4 today; the 90-day forecast remains above the required minimum balance.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,,none,Pay IDR 9236000 today; the 90-day forecast remains above the required minimum balance.
+request_263,14032.92,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 14032.92 is safely available today; the full ZAR 51546 request cannot be completed within the forecast.
+request_264,22974.97,not_affordable,not_recommended,none,2026-06-16,none,Do not proceed. Only INR 22974.97 is safely available today; the full INR 111300 request cannot be completed within the forecast.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,,none,Pay INR 45970 today; the 90-day forecast remains above the required minimum balance.
+request_266,769.63,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-09-15,none,Use the selected installment schedule for the full EUR 935 request; the forecast remains above the minimum balance.
+request_267,1633.36,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-02-15,none,Use the selected installment schedule for the full EUR 1925 request; the forecast remains above the minimum balance.
+request_268,1033.03,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-16,none,Use the selected installment schedule for the full EUR 2426.6 request; the forecast remains above the minimum balance.
+request_269,12364.48,not_affordable,not_recommended,none,,none,Do not proceed. Only ZAR 12364.48 is safely available today; the full ZAR 15490 request cannot be completed within the forecast.
+request_270,475.22,not_affordable,not_recommended,none,,none,Do not proceed. Only USD 475.22 is safely available today; the full USD 3028.8 request cannot be completed within the forecast.
+request_271,6527.29,not_affordable,not_recommended,none,,none,Do not proceed. Only INR 6527.29 is safely available today; the full INR 91300 request cannot be completed within the forecast.
+request_272,8674918.08,not_affordable,not_recommended,none,,none,Do not proceed. Only IDR 8674918.08 is safely available today; the full IDR 13585000 request cannot be completed within the forecast.
+request_273,9626670.43,affordable_with_plan,partial_payment,2026-04-07:9626670.43|2026-04-15:6234329.57,2026-04-15,none,Pay IDR 9626670.43 today and the remaining IDR 6234329.57 on 2026-04-15; the full request completes safely by the deadline.
+request_274,2106.81,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2025-01-16,none,Use the selected installment schedule for the full EUR 2713.7 request; the forecast remains above the minimum balance.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 today; the 90-day forecast remains above the required minimum balance.
